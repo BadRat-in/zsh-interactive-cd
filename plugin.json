@@ -1,0 +1,13 @@
+{
+  "schema": "v1",
+  "id": "zsh-interactive-cd",
+  "name": "Zsh Interactive CD",
+  "version": "1.0.0",
+  "entry": "zsh-interactive-cd.plugin.zsh",
+  "author": {
+    "name": "Ravindra Singh",
+    "email": "rbmorena42@gmail.com"
+  },
+  "repo": "https://github.com/BadRat-in/zsh-intractive-cd.git",
+  "description": "Enhances the 'cd' command in Zsh with interactive features."
+}
