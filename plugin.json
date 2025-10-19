@@ -3,7 +3,7 @@
   "id": "zsh-interactive-cd",
   "name": "Zsh Interactive CD",
   "version": "1.0.0",
-  "entry": "zsh-interactive-cd.plugin.zsh",
+  "entry": "zsh-interactive-cd.zsh",
   "author": {
     "name": "Ravindra Singh",
     "email": "rbmorena42@gmail.com"
